@@ -15,4 +15,4 @@ This repo runs in shifts. See `loop/prompt.md` for how a shift works, and use th
 Tests pass, the work was checked the way a user would, and it's committed, with `plan.md` and `progress.md` updated.
 
 ## Working on shiftbaton itself
-Python 3.10+, standard library only. Update `CHANGELOG.md`, `ROADMAP.md` and docs when relevant. Behavior claims about Claude Code should link its docs. Delete this section in your own project.
+Python 3.10+, standard library only. Update `ROADMAP.md` and docs when relevant. Behavior claims about Claude Code should link its docs. Delete this section in your own project.
