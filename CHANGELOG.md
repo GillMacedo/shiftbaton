@@ -4,6 +4,8 @@ All notable changes are documented here, in [Keep a Changelog](https://keepachan
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-11-01
+
 ### Added
 - Shift prompt and handoff files.
 - `loopctl.py` runner with spend, failure, idle, run and time limits, plus `pause`, `resume` and `status`.
