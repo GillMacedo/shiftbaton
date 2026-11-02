@@ -4,6 +4,11 @@ All notable changes are documented here, in [Keep a Changelog](https://keepachan
 
 ## [Unreleased]
 
+## [0.1.2] - 2026-11-02
+
+### Changed
+- Correct how long a release takes (#8)
+
 ## [0.1.1] - 2026-11-01
 
 ### Changed
