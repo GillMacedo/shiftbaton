@@ -4,6 +4,11 @@ All notable changes are documented here, in [Keep a Changelog](https://keepachan
 
 ## [Unreleased]
 
+## [0.1.3] - 2026-11-02
+
+### Changed
+- Say what happens to PRs that can not be merged (#9)
+
 ## [0.1.2] - 2026-11-02
 
 ### Changed
